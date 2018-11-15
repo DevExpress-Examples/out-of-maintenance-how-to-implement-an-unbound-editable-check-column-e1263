@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SelectionHelper.cs](./CS/UnboundCheckColumn/SelectionHelper.cs) (VB: [SelectionHelper.vb](./VB/UnboundCheckColumn/SelectionHelper.vb))
+* [TestData.cs](./CS/UnboundCheckColumn/TestData.cs) (VB: [TestData.vb](./VB/UnboundCheckColumn/TestData.vb))
+* [Window1.xaml](./CS/UnboundCheckColumn/Window1.xaml) (VB: [Window1.xaml.vb](./VB/UnboundCheckColumn/Window1.xaml.vb))
+* [Window1.xaml.cs](./CS/UnboundCheckColumn/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/UnboundCheckColumn/Window1.xaml.vb))
+<!-- default file list end -->
 # How to implement an unbound editable check column
 
 
